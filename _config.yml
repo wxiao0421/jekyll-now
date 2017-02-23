@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Wei Xiao
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Data scientist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: barryclark/jekyll-now
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/wei-xiao-0b973361/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
