@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a data scientist.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I received my PhD in Statistics from North Carolina State University. My research interests include variable/model selection, optimal treatment regime and statistical methods for high dimensional data. I am a kaggler!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[wxiao0421@gmail.com](mailto:wxiao0421@gmail.com)
