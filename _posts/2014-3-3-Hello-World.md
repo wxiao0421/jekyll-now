@@ -1,6 +1,4 @@
 ---
 layout: post
-title: This guy is lazy
+title: Welcome
 ---
-
-Lies, damned lies, and statistics - Mark Twain
