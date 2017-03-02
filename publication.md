@@ -7,7 +7,7 @@ title: Publication
 
 Please feel free to email me <wxiao@ncsu.edu> if you have any comments. 
 
-**W Xiao**, X Huang, J Silva, S Emrani and A Chaudhuri (2017). Online Robust Principal Component Analysis with Change Point Detection, [_arXiv:1702.05698_](https://arxiv.org/abs/1702.05698). \[[pdf](/media/pdf/Xiao17OMWRPCA.pdf)\]  
+**W Xiao**, X Huang, J Silva, S Emrani and A Chaudhuri (2017). Online Robust Principal Component Analysis with Change Point Detection, [_arXiv:1702.05698_](https://arxiv.org/abs/1702.05698). \[[pdf](/media/pdf/Xiao17OMWRPCA.pdf)\]\[[Python code](https://github.com/wxiao0421/onlineRPCA)\]   
 Online robust principal component analysis which can track dynamic subspace and simultaneously detect change points of underlying low-rank subspace.
 
 **W Xiao**, H H Zhang and W Lu (2016). Robust regression for optimal individualized treatment rules, [_arXiv:1604.03648_](https://arxiv.org/abs/1604.03648). \[[pdf](/media/pdf/Xiao16RobustA.pdf)\]  
@@ -17,7 +17,7 @@ A new class of loss functions and estimators based on robust regression to estim
 Model selection in a time-varying coefficient Cox model, covariates with null effect, constant effect and truly time-varying effect.  
 
 **W Xiao** (2016). A probabilistic machine learning approach to detect industrial plant faults, [_Annual Conference of the Prognostics and Health Management Society - IEEE PHM2015 Data Challenge Winner Paper_](https://www.phmsociety.org/node/1849). \[[pdf](/media/pdf/Xiao16PHM.pdf)\]  
-A novel two-stage machine learning algorithm to predict fault events (including faul's start and end times, and fault type).
+A novel two-stage machine learning algorithm to predict fault events (including fault's start and end times, and fault type).
 
 A Chaudhuri, D Kakde, M Jahja,  **W Xiao**, H Jiang, S Kong and S Peredriy (2016). Sampling Method for Fast Training of Support Vector Data Description. [_arXiv:1606.05382_](https://arxiv.org/abs/1606.05382)
 
